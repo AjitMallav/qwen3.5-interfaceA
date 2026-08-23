@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';                                                                                                                         
 import { Loader2, Send, Trash2 } from 'lucide-react';                                                                                                             
-import './App.css';                                                                                                                                               
+import '.src/App.css';                                                                                                                                               
                                                                                                                                                                   
 type Message = {                                                                                                                                                  
   role: 'user' | 'assistant';                                                                                                                                     
